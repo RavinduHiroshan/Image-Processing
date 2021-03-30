@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Python38\\img\\Scripts\\python.exe",
+    // "python.linting.pylintArgs": [
+    //     "--extension-pkg-whitelist = keras"
+    // ]
+}
